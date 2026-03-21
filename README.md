@@ -1,7 +1,9 @@
-<div align="center">
-  
-# 🚀 Luis Gustavo (Louas)
-**`Desenvolvedor BackEnd`**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,mariadb,git,docker,linux,py&theme=dark" />
+</p>
+
+<h1 align="center">🚀 Luis Gustavo (Louas)</h1>
+<p align="center"><strong><code>Desenvolvedor BackEnd</code></strong></p>
 
 <br/>
 
@@ -14,15 +16,6 @@
 <p align="center">
   Sou entusiasta de tecnologia e focado em arquitetura de sistemas, explorando o ecossistema<br/>
   <strong>.NET (C#)</strong> e soluções de infraestrutura.
-</p>
-
----
-
-### 🤖 Stack Tecnológico
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,mariadb,git,docker,linux,py&theme=dark" />
-  </a>
 </p>
 
 ---
@@ -48,10 +41,8 @@
 
 ---
 
-## Contact
+## 📩 Contact
 
-- LinkedIn: [linkedin.com/in/luisgustavomarinhoborges](https://www.linkedin.com/in/luisgustavomarinhoborges/)
-- Email: [louasdevgmail.com](mailto:louasdev@gmail.com)
-- Languages: Portuguese (native), English (learning)
-
-</div>
+- **LinkedIn:** [linkedin.com/in/luisgustavomarinhoborges](https://www.linkedin.com/in/luisgustavomarinhoborges/)
+- **Email:** [louasdev@gmail.com](mailto:louasdev@gmail.com)
+- **Languages:** Portuguese (Native), English (Learning)

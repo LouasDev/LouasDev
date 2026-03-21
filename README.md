@@ -1,12 +1,11 @@
+<div align="center">
+<br>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,mariadb,git,docker,linux,py&theme=dark" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Luis+Gustavo+Marinho+Borges;Desenvolvedor+BackEnd" alt="Typing SVG" />
+  </a>
 </p>
-
-<h1 align="center">🚀 Luis Gustavo (Louas)</h1>
-<p align="center"><strong><code>Desenvolvedor BackEnd</code></strong></p>
-
-<br/>
-
 <p align="center">
   Me chamo Luis Gustavo Marinho Borges, tenho 18 anos e sou natural de Minas Gerais.<br/>
   Concluí o ensino médio técnico em Desenvolvimento de Sistemas e atualmente estou iniciando<br/>
@@ -16,6 +15,15 @@
 <p align="center">
   Sou entusiasta de tecnologia e focado em arquitetura de sistemas, explorando o ecossistema<br/>
   <strong>.NET (C#)</strong> e soluções de infraestrutura.
+</p>
+
+---
+
+### 🤖 Stack Tecnológico
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github," />
+  </a>
 </p>
 
 ---
@@ -41,8 +49,10 @@
 
 ---
 
-## 📩 Contact
+</div>
 
-- **LinkedIn:** [linkedin.com/in/luisgustavomarinhoborges](https://www.linkedin.com/in/luisgustavomarinhoborges/)
-- **Email:** [louasdev@gmail.com](mailto:louasdev@gmail.com)
-- **Languages:** Portuguese (Native), English (Learning)
+## Contato
+
+- LinkedIn: [linkedin.com/in/luisgustavomarinhoborges](https://www.linkedin.com/in/luisgustavomarinhoborges/)
+- Email: [louasdev@gmail.com](mailto:louasdev@gmail.com)
+- Languages: Portuguese (native), English (learning)

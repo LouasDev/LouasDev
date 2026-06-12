@@ -36,14 +36,6 @@
 <div align="left">
 
 <details>
-<summary><strong>Louas.UI.Framework</strong> — Biblioteca Customizada de UI/UX para WinForms</summary>
-<br>
-Framework em C# desenvolvido para modernizar aplicações legadas em Windows Forms. Fornece componentes estilizados e reutilizáveis (botões modernos, painéis sem borda, gerenciadores de tema) com abstração de componentes e zero overhead de runtime.
-<br><br>
-<a href="https://github.com/LouasDev/Louas.UI.Framework">🔗 Ver Repositório</a>
-</details>
-
-<details>
 <summary><strong>Biblioteca Gastão Valle</strong> — Sistema de Gerenciamento de Biblioteca</summary>
 <br>
 Sistema refatorado para demonstrar padrões profissionais de engenharia backend. Conta com modelagem de banco de dados normalizada em SQL Server, separação limpa entre acesso a dados e regras de negócio, e uso do Entity Framework.

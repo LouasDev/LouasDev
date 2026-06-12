@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Luis+Gustavo+M.+Borges;Desenvolvedor+BackEnd;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Luis+Gustavo+Marinho+Borges;Desenvolvedor+BackEnd;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
   </a>
 </p>
 
@@ -58,7 +58,7 @@ Sistema refatorado para demonstrar padrões profissionais de engenharia backend.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LouasDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LouasDev&show_icons=true&count_private=true&hide_border=true&theme=dark&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouasDev&layout=compact&langs_count=6&count_private=true&hide_border=true&theme=dark&title_color=8A2BE2&text_color=ffffff&bg_color=0d1117" alt="Top languages" />
 </p>
 

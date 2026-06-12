@@ -72,7 +72,7 @@ A automação centralizou essas operações, poupando muito tempo da equipe admi
 
 ## 📬 Contato
 
-- **LinkedIn:** [linkedin.com/in/louasdev](https://www.linkedin.com/in/louasdev)
+- **LinkedIn:** [linkedin.com/in/LuisGustavoMarinhoBorges](https://www.linkedin.com/in/luisgustavomarinhoborges/)
 - **Email:** [louasdev@gmail.com](mailto:louasdev@gmail.com)
 - **Idiomas:** Português (Nativo), Inglês (Em desenvolvimento)
 

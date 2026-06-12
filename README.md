@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,visualstudio,rider,windows,linux" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,c,mysql,html,css,git,github,visualstudio,rider,windows,linux" alt="Skill Icons" />
   </a>
 </p>
 
@@ -38,9 +38,11 @@
 <details>
 <summary><strong>Biblioteca Gastão Valle</strong> — Sistema de Gerenciamento de Biblioteca</summary>
 <br>
-Sistema refatorado para demonstrar padrões profissionais de engenharia backend. Conta com modelagem de banco de dados normalizada em SQL Server, separação limpa entre acesso a dados e regras de negócio, e uso do Entity Framework.
+Sistema desenvolvido e refatorado para automatizar e otimizar o fluxo completo de empréstimo e devolução de livros da instituição Gastão Valle. Antes da implementação do software, o controle do acervo e o registro dos leitores eram feitos de forma totalmente manual (em papel), um processo que gerava grande lentidão operacional e alta vulnerabilidade a erros, perdas e evasão de livros. 
 <br><br>
-<a href="https://github.com/LouasDev/BibliotecaGastaoValle">🔗 Ver Repositório</a>
+A automação centralizou essas operações, poupando muito tempo da equipe administrativa e garantindo um rastreio rigoroso de prazos e materiais para eliminar o extravio de livros. Tecnicamente, conta com modelagem de banco de dados normalizada em SQL Server, separação limpa entre acesso a dados (camada de persistência) e regras de negócio, além do uso de Entity Framework para ganho de eficiência.
+<br><br>
+<a href="https://github.com/LouasDev/Projeto-Biblioteca">🔗 Ver Repositório</a>
 </details>
 
 </div>

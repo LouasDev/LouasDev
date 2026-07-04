@@ -44,7 +44,15 @@ A automação centralizou essas operações, poupando muito tempo da equipe admi
 <br><br>
 <a href="https://github.com/LouasDev/Projeto-Biblioteca">🔗 Ver Repositório</a>
 </details>
-
+<details>
+<summary><strong>Training Grounds</strong> — Repositório de Estudos e Exercícios</summary>
+<br>
+Repositório dedicado à prática e organização dos exercícios acadêmicos desenvolvidos durante a graduação em Ciência da Computação. Reúne desde fundamentos de lógica de programação em C (matrizes, vetores paralelos, ponteiros, manipulação de strings) até exercícios de linguagens e paradigmas variados, servindo como registro de evolução técnica ao longo do curso.
+<br><br>
+Inclui projetos como o <strong>Sistema de Cadastro e Agenda de Funcionários</strong>, que explora manipulação de matrizes/vetores paralelos e passagem de parâmetros por referência em C, entre outras listas de exercícios de estruturas de dados e geometria analítica.
+<br><br>
+<a href="https://github.com/LouasDev/training-grounds">🔗 Ver Repositório</a>
+</details>
 </div>
 
 ---
